@@ -1,15 +1,15 @@
 # Daniel Rocha👋
 🛜📡Electrical Engineering student | GRC | Tech-Driven Management.
 
-I currently focus on Governance, Risk, and Compliance (GRC) and Administration. I blend my engineering background with a strategic vision. This helps ensure safe and efficient operations.
+I have a solid background in infrastructure, telecommunications, and software quality. I'm passionate about defensive security. This includes GRC, digital forensics, and incident response.
 
-My dream is to revolutionize communication by building the invisible layers that connect the world.
+I aim to build, audit, and secure strong systems. I also want to make complex technical ideas clear and easy to understand through documentation and education.
 
 ## 📟 What I'm Doing
 <ul>
 <li>Technical Writing & Intelligence — Making cybersecurity clear and easy to understand in the Caatinga Malware DB.
-<li>Forensic Analysis — Investigating threats and malicious behaviors to strengthen the GRC layer and operational resilience.
-<li>Diving deep — Applying engineering logic to optimize administrative processes and integrate technology into organizational culture.
+* **Forensic Analysis & Lab Architecture** — Designing isolated lab environments (sandboxes) for dynamic malware analysis, threat tracking, and security research.
+* **Software Quality & Infrastructure** — Exploring QA practices, test automation, and reliable system architecture backed by hands-on hardware/network experience.
 </ul>
 
 ## 💾 Featured Projects
@@ -22,13 +22,15 @@ My dream is to revolutionize communication by building the invisible layers that
 ---
 
 ##  🛠️Tech Stack
-### Languages
+### Languages & Scripts
 <div style="display: inline_block">
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img align="center" alt="C++" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
+**Domains & Interests:**
+`QA & Software Testing` | `DFIR & Malware Analysis` | `Networks & Telecom` | `GRC` | `Bare Metal` |
 
 ## 📫Connect
 
