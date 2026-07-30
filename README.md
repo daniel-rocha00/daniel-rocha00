@@ -8,8 +8,8 @@ I aim to build, audit, and secure strong systems. I also want to make complex te
 ## 📟 What I'm Doing
 <ul>
 <li>Technical Writing & Intelligence — Making cybersecurity clear and easy to understand in the Caatinga Malware DB.
-* **Forensic Analysis & Lab Architecture** — Designing isolated lab environments (sandboxes) for dynamic malware analysis, threat tracking, and security research.
-* **Software Quality & Infrastructure** — Exploring QA practices, test automation, and reliable system architecture backed by hands-on hardware/network experience.
+<li>Forensic Analysis & Lab Architecture** — Designing isolated lab environments (sandboxes) for dynamic malware analysis, threat tracking, and security research.
+<li>Software Quality & Infrastructure** — Exploring QA practices, test automation, and reliable system architecture backed by hands-on hardware/network experience.
 </ul>
 
 ## 💾 Featured Projects
@@ -29,7 +29,7 @@ I aim to build, audit, and secure strong systems. I also want to make complex te
 
 </div>
 
-**Domains & Interests:**
+### Domains & Interests:
 `QA & Software Testing` | `DFIR & Malware Analysis` | `Networks & Telecom` | `GRC` | `Bare Metal` |
 
 ## 📫Connect
