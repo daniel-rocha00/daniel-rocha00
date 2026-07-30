@@ -1,7 +1,7 @@
 # Daniel Rocha👋
-🛜📡Electrical Engineering student | GRC | Tech-Driven Management.
+🛜📡 Associate Degree in Analysis and Systems Development | Cyber Security, DFIR & QA.
 
-I have a solid background in infrastructure, telecommunications, and software quality. I'm passionate about defensive security. This includes GRC, digital forensics, and incident response.
+I combine a strong foundation in infrastructure, telecommunications, and software quality. I'm passionate for defensive security (GRC, Digital Forensics, and Incident Response).
 
 I aim to build, audit, and secure strong systems. I also want to make complex technical ideas clear and easy to understand through documentation and education.
 
